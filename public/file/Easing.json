@@ -1,0 +1,45 @@
+[{
+	"value": "Linear",
+	"label": "线性曲线"
+},
+{
+	"value": "Quadratic",
+	"label": "二次曲线"
+},
+
+{
+	"value": "Cubic",
+	"label": "三次曲线"
+},
+{
+	"value": "Quartic",
+	"label": "四次曲线"
+},
+
+{
+	"value": "Quintic",
+	"label": "五次曲线"
+},
+
+{
+	"value": "Sinusoidal",
+	"label": "正弦曲线"
+},
+{
+	"value": "Exponential",
+	"label": "指数曲线"
+},
+
+{
+	"value": "Circular",
+	"label": "圆形曲线"
+},
+{
+	"value": "Elastic",
+	"label": "弹跳曲线"
+},
+{
+	"value": "Bounce",
+	"label": "下落曲线"
+}
+]
